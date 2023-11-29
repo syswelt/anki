@@ -1,0 +1,74 @@
+ἀδελφή 1d : soeur
+δημοκρατία 1d : démocratie
+δικη 1d : justice, procès
+μαχη 1d : bataille
+συμμαχια 1d : alliance
+
+ἀοιδος 2d : aède
+μισθος 2d : salaire
+υιός 2d : fils
+στατηγος 2d : stratège
+
+ἀθλον 2d : prix
+δεσμωτηριον 2d : prison
+
+ἀνήρ, ἀνδρος (ὁ) 3d : homme
+θυγατηρ, τρος (ἡ) 3d : fille
+μήτηρ, μητρός (ἡ) 3d : mère
+
+τιμοθεος : Timothée
+φιλοδημος  : mère
+
+δέκα : dix
+δύο : deux
+δώδεκα : douze
+εἱς, μια, ἕν : un
+ἑνδεκα : onze
+ἐννέα : neuf
+ἕξ : six
+ἑπτά : sept
+εὐδοκιμος : qui a bonne réputation
+θετταλός : thessalien
+ἱππικός : qui concerne le cheval
+ἡ ἱππική : l'art de monter à cheval
+ὀκτώ : huit
+πρωτος : premier
+τέτταρες : quatre
+τρεῑς : trpos
+
+ἔγωγε : pour ma part, quant à moi
+
+ἀναγκάζω : contraindre
+ἀορχομαι : comme,cer
+βουλευομαι : tenir conseil, délibérer
+βουλομαι : vouloir
+γιγνομαι : naître, devenir, être
+δεχομαι : recevoir
+διαγιγνωσκω : discerner, juger
+διωκω : poursuivre, poursuivre en justice
+θεραπευω : soigner, servir
+λυω : délier, rompre
+μαχομαι  (+dat): combattre
+μεταπεμπομαι : envoyer, chercher
+οἴομαι : penser
+ὀφειλω : devoir (de l'argent, de la reconnaissance etc.)
+πειθομαι  (+dat): obéir à
+πολιτευομαι : être citoyen, participer à la vie politique
+πορευομαι : faire route, voyager
+προσταττω : prescrire
+ὑβριζω : commettre des excès, maltraiter
+φευγω : être accusé, être défendeur
+ψευδομαι : mentir
+
+διοικεω : administrer
+πωλεω : mettre en vente
+στατηγεω (+gen) : être stratège de
+τυραννεω : avoir un pouvoir absolu, être
+
+ἐντευθεν : à partir de là
+ἐπειδη : après que, comme
+μη : ne pas
+οὐ...πω : ne pas encore
+ἐπί (+dat) : à propos de, pour
+μετά (+acc) : après
+παρά (+acc) : contrairement à
